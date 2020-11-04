@@ -1,0 +1,12 @@
+---
+:id: 48572596
+:submitters:
+- :name: Yuntao Li
+  :email: yli346@jhu.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-10 02:55:11.711766000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-09 19:55:11.711766000 Z
+:status: processed
+:score: 67.0
